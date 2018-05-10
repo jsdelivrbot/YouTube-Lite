@@ -1,3 +1,6 @@
+# Run it!
+After cloning the repo, install npm and create the keys.js file with the format below. Then go to localhost:8080 and get lost in some YouTube videos!
+
 # General Description
 I followed Stephen Grider's Redux and React tutorial series. This code is the result from the first major section of the course. I did modify some CSS and made my YT API key in a separate ignored file.
 
